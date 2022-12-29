@@ -1,0 +1,25 @@
+{
+  "name": "tinypng_clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelGerges/tinypng-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelGerges/tinypng-clone/issues"
+  },
+  "homepage": "https://github.com/SamuelGerges/tinypng-clone#readme",
+  "dependencies": {
+    "imagemin": "^8.0.1",
+    "imagemin-jpeg-recompress": "^7.0.0",
+    "imagemin-pngquant": "^9.0.2"
+  }
+}
